@@ -1,0 +1,170 @@
+[ {
+  "name" : "Christian Pulisic",
+  "listName" : "Chelsea",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://chelseacore.com/wp-content/uploads/2019/10/pulisic.png"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "Position: Winger"
+  }, {
+    "itemType" : "url",
+    "itemValue" : "https://www.chelseafc.com/en/teams/profile/christian-pulisic"
+  } ]
+}, {
+  "name" : "Harry Maguire",
+  "listName" : "Manchester United",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://resources.premierleague.com/premierleague/photos/players/250x250/p95658.png"
+  }, {
+    "itemType" : "url",
+    "itemValue" : "https://www.youtube.com/watch?v=CF4Q__W1nTg"
+  } ]
+}, {
+  "name" : "Graham Potter",
+  "listName" : "Chelsea",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://res.cloudinary.com/chelsea-production/image/upload/c_fit,h_630,w_1200/v1/editorial/people/management/2022-23/Potter_profile_avatar_22-23-removebg"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "Position: Manager"
+  } ]
+}, {
+  "name" : "Erling Haaland",
+  "listName" : "Manchester City",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://www.mancity.com/meta/media/233jlh2j/microsoftteams-image-127.png?width=600"
+  } ]
+}, {
+  "name" : "Max Verstappen",
+  "listName" : "Red Bull",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://e0.365dm.com/f1/drivers/256x256/h_full_1465.png"
+  } ]
+}, {
+  "name" : "Sergio Perez",
+  "listName" : "Red Bull",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://e1.365dm.com/f1/drivers/256x256/h_full_902.png"
+  } ]
+}, {
+  "name" : "Charles Leclerc",
+  "listName" : "Ferrari",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://e1.365dm.com/f1/drivers/256x256/h_full_1489.png"
+  } ]
+}, {
+  "name" : "Carlos Sainz",
+  "listName" : "Ferrari",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://e0.365dm.com/f1/drivers/256x256/h_full_1475.png"
+  } ]
+}, {
+  "name" : "Lewis Hamilton",
+  "listName" : "Mercedes",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://e2.365dm.com/f1/drivers/256x256/h_full_809.png"
+  }, {
+    "itemType" : "url",
+    "itemValue" : "https://www.formula1.com/en/drivers/lewis-hamilton.html"
+  } ]
+}, {
+  "name" : "George Russell",
+  "listName" : "Mercedes",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://e2.365dm.com/f1/drivers/256x256/h_full_1496.png"
+  } ]
+}, {
+  "name" : "Lando Norris",
+  "listName" : "Mclaren",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://e0.365dm.com/f1/drivers/256x256/h_full_1501.png"
+  } ]
+}, {
+  "name" : "Oscar Piastri",
+  "listName" : "Mclaren",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://e2.365dm.com/f1/drivers/256x256/h_full_1528.png"
+  } ]
+}, {
+  "name" : "Mclaren 720S",
+  "listName" : "Mclaren Automotive",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://www.syvecs.com/wp-content/uploads/2020/06/720s-banner-e1501045303958.png"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "Maximum Speed : 341kph (212mph)"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "0-100kpm (62mph) : 2.9s"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "0-200kph (124mph) : 7.8s"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "Maximum Torque : 770Nm (568lbft)"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "Engine Type : V8, 4.0L"
+  } ]
+}, {
+  "name" : "Mclaren 765LT Spider",
+  "listName" : "Mclaren Automotive",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://www.mclarenofgreenwich.com/wp-content/uploads/2021/07/McLaren-765LT-Spider-1024x515.png"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "Maximum Speed : 330kph (205mph)"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "0-100kpm (62mph) : 2.8s"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "0-200kph (124mph) : 7.2s"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "Maximum Torque : 800Nm (590lbft)"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "Engine Type : V8, 4.0L"
+  } ]
+}, {
+  "name" : "Koenigsegg Regera",
+  "listName" : "Koenigsegg",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://robbreport.com/wp-content/uploads/2021/01/1-6.jpg?w=1000"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "The Regera was specifically designed to be a luxury megacar alternative to Koenigsegg's traditional extreme, lightweight, race-like road-legal cars. It combines a powerful twin-turbo V8 combustion engine with three electric motors and cutting-edge battery power via new powertrain technology called the Koenigsegg Direct Drive.  While traditional Koenigseggs have always had surprising levels of practicality, creature comforts and features, our primary focus has always been to make the fastest cars in the world. The Regera continues this tradition, but with innovative technology that blends outrageous speed, supreme comfort, and a unique Direct Drive experience."
+  }, {
+    "itemType" : "url",
+    "itemValue" : "https://www.koenigsegg.com/model/regera"
+  } ]
+}, {
+  "name" : "Koenigsegg Jesko",
+  "listName" : "Koenigsegg",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0833%29.jpg/800px-GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0833%29.jpg"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "The Jesko is named after Jesko von Koenigsegg, the father of company Founder and CEO, Christian von Koenigsegg.  It features a redesigned 5.0 litre twin-turbo V8 engine producing 1280 hp on standard gasoline and 1600 hp on E85 biofuel (in some markets) alongside the revolutionary new 9-speed Koenigsegg Light Speed Transmission (LST) system. Advanced aerodynamics offer over 1000 kg of downforce, making it the ultimate track weapon."
+  }, {
+    "itemType" : "url",
+    "itemValue" : "https://www.koenigsegg.com/model/jesko"
+  } ]
+} ]

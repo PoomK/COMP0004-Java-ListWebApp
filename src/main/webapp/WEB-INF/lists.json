@@ -1,0 +1,121 @@
+[ {
+  "name" : "Chelsea",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://e0.365dm.com/21/05/768x432/skysports-chelsea-champions-league-final_5399567.jpg?20210529221935"
+  }, {
+    "itemType" : "url",
+    "itemValue" : "https://www.chelseafc.com/en/teams/men"
+  }, {
+    "itemType" : "multiElementItem",
+    "itemValue" : "Graham Potter"
+  }, {
+    "itemType" : "multiElementItem",
+    "itemValue" : "Christian Pulisic"
+  } ]
+}, {
+  "name" : "Manchester United",
+  "items" : [ {
+    "itemType" : "multiElementItem",
+    "itemValue" : "Harry Maguire"
+  } ]
+}, {
+  "name" : "F1 teams",
+  "items" : [ {
+    "itemType" : "linkedList",
+    "itemValue" : "Red Bull"
+  }, {
+    "itemType" : "linkedList",
+    "itemValue" : "Ferrari"
+  }, {
+    "itemType" : "linkedList",
+    "itemValue" : "Mercedes"
+  }, {
+    "itemType" : "linkedList",
+    "itemValue" : "Mclaren"
+  } ]
+}, {
+  "name" : "Red Bull",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://soymotor.com/sites/default/files/styles/team_desk/public/2023-02/red-bull-rb19-f1-2023-soymotor.png?h=31f20df5&itok=KLcER5uK"
+  }, {
+    "itemType" : "multiElementItem",
+    "itemValue" : "Max Verstappen"
+  }, {
+    "itemType" : "multiElementItem",
+    "itemValue" : "Sergio Perez"
+  } ]
+}, {
+  "name" : "Ferrari",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://soymotor.com/sites/default/files/styles/team_desk/public/2023-02/ferrari-sf23-f1-2023-soymotor.png?h=31f20df5&itok=l43EvEKX"
+  }, {
+    "itemType" : "multiElementItem",
+    "itemValue" : "Charles Leclerc"
+  }, {
+    "itemType" : "multiElementItem",
+    "itemValue" : "Carlos Sainz"
+  } ]
+}, {
+  "name" : "Mercedes",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://soymotor.com/sites/default/files/styles/team_desk/public/2023-02/mercedes-w14-f1-2023-soymotor.png?h=31f20df5&itok=ZbfSsEJL"
+  }, {
+    "itemType" : "multiElementItem",
+    "itemValue" : "Lewis Hamilton"
+  }, {
+    "itemType" : "multiElementItem",
+    "itemValue" : "George Russell"
+  } ]
+}, {
+  "name" : "Mclaren",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://soymotor.com/sites/default/files/styles/team_desk/public/2023-02/mclaren-mcl60-f1-2023-soymotor.png?h=31f20df5&itok=4aW22-2L"
+  }, {
+    "itemType" : "multiElementItem",
+    "itemValue" : "Lando Norris"
+  }, {
+    "itemType" : "multiElementItem",
+    "itemValue" : "Oscar Piastri"
+  }, {
+    "itemType" : "linkedList",
+    "itemValue" : "Mclaren Automotive"
+  } ]
+}, {
+  "name" : "Mclaren Automotive",
+  "items" : [ {
+    "itemType" : "image",
+    "itemValue" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/McLaren_Automotive_logo.svg/1200px-McLaren_Automotive_logo.svg.png"
+  }, {
+    "itemType" : "text",
+    "itemValue" : "McLaren Automotive is a British luxury automotive manufacturer based at the McLaren Technology Centre in Woking, England. The main products of the company are supercars, which are produced in-house in designated production facilities."
+  }, {
+    "itemType" : "url",
+    "itemValue" : "https://cars.mclaren.com/en"
+  }, {
+    "itemType" : "multiElementItem",
+    "itemValue" : "Mclaren 720S"
+  }, {
+    "itemType" : "multiElementItem",
+    "itemValue" : "Mclaren 765LT Spider"
+  } ]
+}, {
+  "name" : "Koenigsegg",
+  "items" : [ {
+    "itemType" : "text",
+    "itemValue" : "Koenigsegg is probably best known for being largely unknown, which makes sense since this Swedish automaker builds ultra-exclusive and ultra-expensive hypercars. While legendary models such as the Agera are no longer available, its otherworldly performance and panache is perpetuated by the company's other models. The Koenigsegg Regera costs seven figures and is one of the quickest and most powerful hybrids on the planet. The Jesko is the latest insanely fast and wildly complex model costing about $3 million."
+  }, {
+    "itemType" : "url",
+    "itemValue" : "https://www.koenigsegg.com/"
+  }, {
+    "itemType" : "multiElementItem",
+    "itemValue" : "Koenigsegg Regera"
+  }, {
+    "itemType" : "multiElementItem",
+    "itemValue" : "Koenigsegg Jesko"
+  } ]
+} ]
